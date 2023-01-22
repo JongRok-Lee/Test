@@ -1,8 +1,6 @@
 [submodule "sub_test1"]
 	path = sub_test1
 	url = https://github.com/JongRok-Lee/sub_test.git
-	branch = main
 [submodule "sub_test2"]
 	path = sub_test2
 	url = https://github.com/JongRok-Lee/sub_test.git
-	branch = main2
